@@ -1,0 +1,44 @@
+.uk-card-default{
+    margin-top: 20px;
+   
+    padding: 20px;
+}
+
+.uk-input, .uk-select:not([multiple]):not([size]){
+    width: 400px;
+}
+
+
+.uk-button-default{
+    background-color:#cc9900;
+}
+
+.left{
+    float: left;
+    color:#0c7e36;
+}
+.right{
+    float: right;
+    color:#0c7e36;
+}
+
+.head{
+    color:#0c7e36;
+    font-weight: bold;
+    font-size: 19px;
+}
+
+*{
+    font-size: 19px; 
+}
+
+.uk-button-default:hover{
+    background-color:#0c7e36;
+    color:#cc9900;
+}
+
+.back{
+    background-color :#0c7e36;
+    color:#cc9900;
+    font-weight: bold;
+}
